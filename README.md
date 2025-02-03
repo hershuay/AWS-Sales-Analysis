@@ -8,7 +8,7 @@
 
 ## Overview
 
-An interactive dashboard providing key metrics and insights into sales of Amazon AWS from 2020 to 2023, cleaned in Excel and visualized in Tableau.
+An interactive dashboard showcasing key sales metrics and insights for Amazon AWS (2020–2023), with data cleaned in Excel and visualized in Tableau.
 
 </br>
 
